@@ -1,0 +1,3 @@
+# except for .gitignore
+!.gitignore
+.idea/
